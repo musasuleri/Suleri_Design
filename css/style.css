@@ -15,7 +15,7 @@ body {
   font-family: "Roboto", Arial, serif;
   line-height: 1.8;
   font-size: 16px;
-  background: #f9fcd9;
+  background: #fffcf2;
   color: #848484;
   font-weight: 300;
   overflow-x: hidden;
@@ -41,7 +41,7 @@ a:active, a:focus {
 p, ul, ol {
   margin-bottom: 1.5em;
   font-size: 15px;
-  color: #848484;
+  color: #333333;
   font-family: "Roboto", Arial, serif;
 }
 
@@ -96,7 +96,7 @@ figure {
   font-size: 15px;
 }
 #fh5co-header nav ul li a {
-  color: #999999 !important;
+  color: #333333 !important;
   padding: 10px;
 }
 @media screen and (max-width: 480px) {
