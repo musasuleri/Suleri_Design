@@ -208,7 +208,12 @@ figure {
 #fh5co-footer {
   float: left;
   width: 100%;
-  background: #D2D2E0;
+background: #fbfff2; /* Old browsers */
+background: -moz-linear-gradient(top, #fbfff2 3%, #e2e2e2 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #fbfff2 3%,#e2e2e2 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #fbfff2 3%,#e2e2e2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfff2', endColorstr='#e2e2e2',GradientType=0 ); /* IE6-9 */
+
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
