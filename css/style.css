@@ -217,10 +217,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfff2', end
   padding-bottom: 20px;
   text-align: center;
   color: #999999;
-	  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
 }
 #fh5co-footer a {
   color: #bfbfbf;
